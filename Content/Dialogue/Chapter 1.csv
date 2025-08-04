@@ -38,3 +38,5 @@ ch1_customer2_6,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engi
 ch1_run,Aku tidak bisa berlari saat ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
 ch1_mj,"Dulu, aku ingin sekali bertemu dengannya… walau hanya sekali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
 ch1_car,Mobil rusak seperti ini… aku tidak terlalu ingin melihatnya,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
+ch1_first,Aku kerja paruh waktu sebagai kasir di minimarket sambil kuliah,ch1_first2,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,
+ch1_first2,"Bukan hidup yang luar biasa, tapi cukup untuk terus berjalan",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
