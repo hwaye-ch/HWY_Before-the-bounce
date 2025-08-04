@@ -36,3 +36,5 @@ ch1_customer2_4,..,ch1_customer2_5,/Script/Engine.DataTable'/Game/Dialogue/Chapt
 ch1_customer2_5,Totalnya $3,ch1_customer2_6,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',false,,,,True
 ch1_customer2_6,"Terima kasih banyak, silahkan datang kembali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
 ch1_run,Aku tidak bisa berlari saat ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
+ch1_mj,"Dulu, aku ingin sekali bertemu dengannya… walau hanya sekali",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
+ch1_car,Mobil rusak seperti ini… aku tidak terlalu ingin melihatnya,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter1_Dialogue.Chapter1_Dialogue',true,,,,
