@@ -9,5 +9,6 @@ ch5_sunyi2,Tapi... mengapa tubuhku masih belum bisa bergerak?,None,/Script/Engin
 ch5_sulittidur,Mengapa sulit sekali untuk tidur malam ini?,ch5_sulittidur2,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
 ch5_sulittidur2,"Aku merasa tubuhku diam, tetapi pikiranku terus berjalan",ch5_sulittidur3,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
 ch5_sulittidur3,Apakah semua ini sudah berakhir... atau justru baru dimulai?,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',True,,,
-,,,,,,,
+ch5_basket,Lagi?!,ch5_basket2,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
+ch5_basket2,Bisakah aku minta waktu sedetik saja?,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',True,,,
 ,,,,,,,
