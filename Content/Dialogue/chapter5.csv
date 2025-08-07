@@ -1,0 +1,13 @@
+Name,Dialogue,NextRow,Datatable,EndDialogue?,CharacterName,EN,JP
+ch5_sp1,...Kenapa tubuhku...,ch5_sp2,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
+ch5_sp2,Rasanya berat sekali.,ch5_sp3,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
+ch5_sp3,Aku tidak bisa menggerakkan apa-apa...,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',True,,,
+ch5_inginbangun1,Apa ini... mimpi? Bukan. Tapi aku juga belum tidur.,ch5_inginbangun2,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',False,,,
+ch5_inginbangun2,"Aku nggak tahu lagi, ini yang keberapa kalinya.",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter5_Dialogue.Chapter5_Dialogue',True,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
