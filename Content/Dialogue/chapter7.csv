@@ -101,3 +101,5 @@ ch7_mother_27,"Ibu tidak pernah meninggalkanmu, Nak",ch7_mother_28,/Script/Engin
 ch7_mother_28,Temukan kekuatanmu,ch7_mother_29,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,Mother,,
 ch7_mother_29,Karena suatu saat... kita akan bertemu lagi,ch7_mother_30,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,Mother,,
 ch7_mother_30,"dalam damai, bukan dalam duka",ch7_mother_27,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,Mother,,
+ch7_caseoh,"Sebenarnya aku ingin burger, tapi...",ch7_caseoh2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,Customer,,
+ch7_caseoh2,"Lupakan, aku akan pergi ke Waffle House",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,Customer,,
