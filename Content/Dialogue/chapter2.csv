@@ -38,7 +38,7 @@ ch2_sepi,"Lumayan sepi sore ini, pas buat makan sebentar",ch2_sepi_2,/Script/Eng
 ch2_sepi_2,Akan kuhangatkan makanan yang baru saja kubeli barusan,ch2_sepi_3,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,,
 ch2_sepi_3,"Kalau makan sekarang, nanti di rumah tinggal kerjakan tugas",ch2_sepi_4,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,,
 ch2_sepi_4,Kadang rasanya enak juga kalau toko lagi tenang begini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',true,,,,
-ch2_windah,Pergi ke pasar beli belimbing,ch2_windah2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Customer,,,
+ch2_windah,Pergi ke pasar beli belimbing,ch2_windah2,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Customer,,,true
 ch2_windah2,Cakep...,ch2_windah3,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,,,,
 ch2_windah3,"Kalian para viewers, kalian terlahir cantik dan tampan",ch2_windah4,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Customer,,,
 ch2_windah4,Dan kalian layak mendapatkan pasangan yang menyayangi kalian,ch2_windah5,/Script/Engine.DataTable'/Game/Dialogue/Chapter2_Dialogue.Chapter2_Dialogue',false,Customer,,,
