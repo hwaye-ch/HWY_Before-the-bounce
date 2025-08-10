@@ -111,3 +111,5 @@ ch7_relieve,....,ch7_relieve2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_D
 ch7_relieve2,????????,ch7_relieve3,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,,True
 ch7_relieve3,Hujan,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,,
 ch7_rain,"Hujan, aku mau pulang",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,,
+ch7_from_mike,Suaranya berasal dari mike,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,,
+ch7_obat,Obat-obatan ini....rasanya shibal,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,,
