@@ -103,3 +103,7 @@ ch7_mother_29,Karena suatu saat... kita akan bertemu lagi,ch7_mother_30,/Script/
 ch7_mother_30,"dalam damai, bukan dalam duka",ch7_mother_27,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,Mother,,
 ch7_caseoh,"Sebenarnya aku ingin burger, tapi...",ch7_caseoh2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,Customer,,
 ch7_caseoh2,"Lupakan, aku akan pergi ke Waffle House",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,Customer,,
+ch7_izin,Jam lima… waktunya berangkat,ch7_izin2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
+ch7_izin2,Aku sudah janji dengan Sarah,ch7_izin3,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
+ch7_izin3,"Mungkin nanti aku akan bilang ke manajer, izin pulang lebih cepat…",ch7_izin4,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,
+ch7_izin4,"Yah, semoga dia tidak banyak bertanya",None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,
