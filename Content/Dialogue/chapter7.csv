@@ -209,3 +209,4 @@ ch7_nonton,Aku harus menghentikan ini…,ch7_nonton1,/Script/Engine.DataTable'/G
 ch7_nonton1,pikiranku terlalu bising,ch7_nonton2,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,,
 ch7_nonton2,"Mungkin… kalau aku menyalakan TV,",ch7_nonton3,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',False,,,,
 ch7_nonton3,setidaknya ada suara lain yang bisa menenggelamkan semua ini,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,,,,
+ch7_andy,Halo,None,/Script/Engine.DataTable'/Game/Dialogue/Chapter7_Dialogue.Chapter7_Dialogue',True,???,,,
